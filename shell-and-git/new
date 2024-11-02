@@ -1,5 +1,19 @@
-1. create and then navigate to a folder
+1. open terminal and git hub
 
-2. execute git init command
+2. create a new repository on GitHub.com
 
-3. 
+3. navigate to the folder with cd on the terminal
+
+4. check the status with git status command
+
+5. use git add command 
+To stage a specific file:
+git add filename.txt
+To stage all changes:
+git add .
+
+6. 
+
+
+
+
