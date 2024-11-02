@@ -21,10 +21,7 @@ git commit -m "Your commit message here"
 
 
 summery:
-Summary of Commands
-Here's a quick summary of the commands:
 
-CopyReplit
 cd path/to/your/repository
 git status
 git add .
