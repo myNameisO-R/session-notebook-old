@@ -9,11 +9,12 @@
 5. use git add command 
 To stage a specific file:
 git add filename.txt
+
 To stage all changes:
 git add .
 
-6. 
-
+6. commit the changes with a message 
+git commit -m "Your commit message here"
 
 
 
