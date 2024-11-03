@@ -4,7 +4,7 @@ Using Command Line (Terminal)
 Open Terminal: 
 
 On Windows, you can use Command Prompt or Git Bash.
-On macOS or Linux, open your Terminal application.
+
 Navigate to Your Repository: 
 Use the cd command to change to the directory where your Git repository is located. For example:
 
